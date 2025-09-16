@@ -927,7 +927,7 @@ git checkout -b recovered-branch
 
 *Bu rehber, Git ve GitHub ile çalışırken ihtiyaç duyabileceğiniz tüm temel ve gelişmiş komutları içermektedir. Düzenli olarak güncellenecektir.*
 
-**Son Güncelleme**: 2024
+**Son Güncelleme**: 2025
 
 **Katkıda Bulunma**: Bu rehberi geliştirmek için pull request gönderebilirsiniz.
 
